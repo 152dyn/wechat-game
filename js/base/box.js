@@ -1,7 +1,7 @@
-let boxList = [
+export default boxs = [
 	{
 		boxId: 1,
-		boxName: '软件产业基地全能店',
+		boxName: '起点',
 		price: 1000,
 		pay: [200, 300, 500],
 		leve: 0,
@@ -143,7 +143,7 @@ let boxList = [
 		upLeve: [300, 500, 1000],
 	},
 	{
-		boxId: 1,
+		boxId: 17,
 		boxName: '上梅林单车店',
 		price: 1000,
 		pay: [200, 300, 500],
@@ -152,7 +152,7 @@ let boxList = [
 		upLeve: [300, 500, 1000],
 	},
 	{
-		boxId: 17,
+		boxId: 18,
 		boxName: '深业上城全能店',
 		price: 1000,
 		pay: [200, 300, 500],
@@ -161,7 +161,7 @@ let boxList = [
 		upLeve: [300, 500, 1000],
 	},
 	{
-		boxId: 18,
+		boxId: 19,
 		boxName: '福民全能店',
 		price: 1000,
 		pay: [200, 300, 500],
@@ -169,7 +169,7 @@ let boxList = [
 		boxHost: 'xxx',
 		upLeve: [300, 500, 1000],
 	},{
-		boxId: 19,
+		boxId: 20,
 		boxName: '华强北全能店',
 		price: 1000,
 		pay: [200, 300, 500],
@@ -178,7 +178,7 @@ let boxList = [
 		upLeve: [300, 500, 1000],
 	},
 	{
-		boxId: 20,
+		boxId: 21,
 		boxName: '华强北单词店',
 		price: 1000,
 		pay: [200, 300, 500],
@@ -187,7 +187,7 @@ let boxList = [
 		upLeve: [300, 500, 1000],
 	},
 	{
-		boxId: 21,
+		boxId: 22,
 		boxName: '燕南全能店',
 		price: 1000,
 		pay: [200, 300, 500],
@@ -196,7 +196,7 @@ let boxList = [
 		upLeve: [300, 500, 1000],
 	},
 	{
-		boxId: 22,
+		boxId: 23,
 		boxName: '燕南动静店',
 		price: 1000,
 		pay: [200, 300, 500],
@@ -205,7 +205,7 @@ let boxList = [
 		upLeve: [300, 500, 1000],
 	},
 	{
-		boxId: 1,
+		boxId: 24,
 		boxName: '圆领全能店',
 		price: 1000,
 		pay: [200, 300, 500],
@@ -214,7 +214,7 @@ let boxList = [
 		upLeve: [300, 500, 1000],
 	},
 	{
-		boxId: 1,
+		boxId: 25,
 		boxName: '1234space全能店',
 		price: 1000,
 		pay: [200, 300, 500],
@@ -223,7 +223,7 @@ let boxList = [
 		upLeve: [300, 500, 1000],
 	},
 	{
-		boxId: 1,
+		boxId: 26,
 		boxName: '龙岗天安健身舱',
 		price: 1000,
 		pay: [200, 300, 500],
